@@ -1,7 +1,6 @@
 # Amazon-Clone
 This Clone made by Umair.
-
-![_D__umair_repo_Amazon-Clone_index html](https://github.com/umair7228/Amazon-Clone/assets/154393500/20498363-9bb5-4a70-b826-af551ee0c1e6)
+![Amazon Clone](https://github.com/user-attachments/assets/21db26c2-d760-428b-b3b2-6a82640b05b4)
 
 # AmazonLite - Frontend E-commerce Website Clone
 
